@@ -1,0 +1,23 @@
+{
+  "data_path": "DataSet_datathon_13112025_CLEAN(in).csv",
+  "shape": [
+    5110,
+    12
+  ],
+  "target_col": "stroke",
+  "numeric_cols": [
+    "id",
+    "age",
+    "hypertension",
+    "heart_disease",
+    "avg_glucose_level",
+    "bmi",
+    "stroke"
+  ],
+  "categorical_cols": [
+    "gender",
+    "ever_married",
+    "work_type",
+    "smoking_status"
+  ]
+}

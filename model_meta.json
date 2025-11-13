@@ -1,0 +1,21 @@
+{
+  "best_model": "Calibrated RandomForest (tuned)",
+  "target_col": "stroke",
+  "numeric_features": [
+    "id",
+    "age",
+    "hypertension",
+    "heart_disease",
+    "avg_glucose_level",
+    "bmi"
+  ],
+  "categorical_features": [
+    "gender",
+    "ever_married",
+    "work_type",
+    "Residence_type",
+    "smoking_status"
+  ],
+  "default_threshold": 0.15,
+  "pos_label": 1
+}
